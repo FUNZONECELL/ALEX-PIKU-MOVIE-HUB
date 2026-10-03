@@ -1,0 +1,8 @@
+{
+  "name": "ALEXPIKUMOVEHUB",
+  "description": "High-performance streaming hub for international cinematic content with multi-genre discovery, offline downloads, 4K player, and admin control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
